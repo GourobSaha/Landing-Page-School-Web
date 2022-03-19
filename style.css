@@ -55,3 +55,32 @@
   box-shadow: 5px 5px 10px rgb(87, 170, 87);
   transition: 0.2s;
 }
+.feat-1 {
+  margin-top: 35px;
+  margin-bottom: 100px;
+}
+.feature {
+  background: #f8fffb;
+  text-align: center;
+  border-radius: 10px;
+  width: 300px;
+  height: 300px;
+  padding: 20%;
+}
+.feature:hover {
+  background-color: white;
+  box-shadow: 5px 5px 15px rgba(87, 170, 87, 0.657);
+  transition: 0.2s;
+}
+.feature h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  color: #413960;
+}
+.feature img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 20px;
+}

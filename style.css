@@ -154,3 +154,25 @@
   padding-top: 3.5%;
   padding-left: 5%;
 }
+footer {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  color: white;
+  background-color: #282531;
+}
+.f-col-1 {
+  padding-right: 100px;
+}
+.btn {
+  border-radius: 33px;
+}
+.foot a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #ffffff;
+  transition: 0.2s ease;
+}
+.foot a:hover {
+  text-decoration: none;
+  color: #a79f9f;
+}

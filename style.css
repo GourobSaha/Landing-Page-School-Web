@@ -99,6 +99,14 @@
   padding: 4%;
   width: 100%;
 }
+.card h5 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #413960;
+}
 .card {
   padding: 2%;
   border-radius: 20px;
@@ -117,6 +125,32 @@
   width: 20%;
   padding-bottom: 10px;
 }
-.seat {
-  margin-left: 20%;
+.blog h1 {
+  text-align: center;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  color: #21b573;
+  margin-bottom: 60px;
+}
+.blog img {
+  width: 150px;
+  height: 15opx;
+  box-shadow: 5px 5px 10px rgb(165, 221, 165);
+  border-radius: 50%;
+}
+
+.blog {
+  align-items: center;
+  width: 50%;
+  margin-bottom: 80px;
+}
+.blog p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  padding-top: 3.5%;
+  padding-left: 5%;
 }

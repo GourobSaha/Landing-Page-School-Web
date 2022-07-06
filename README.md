@@ -1,1 +1,1 @@
-# E-School
+# School Website
